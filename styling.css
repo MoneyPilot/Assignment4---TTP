@@ -1,0 +1,9 @@
+p{
+    color: black
+    width: 500px
+}
+
+button{
+    object-position: center;
+    width: fit-content;
+}
